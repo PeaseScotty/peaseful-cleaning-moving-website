@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  publicBusinessName: 'Peaseful Cleaning N Moving',
+  publicBusinessName: 'Peaseful Cleaning & Moving',
   legalBusinessName: '',
   phoneDisplay: '(406) 258-8558',
   phoneLink: 'tel:+14062588558',
