@@ -11,8 +11,8 @@ Confirmed public details:
 - Public brand: Peaseful Cleaning N Moving
 - Phone: (406) 258-8558
 - Phone URL: tel:+14062588558
-- Email: peasefullcleaningmoving@gmail.com
-- Email URL: mailto:peasefullcleaningmoving@gmail.com
+- Email: peasefulcleaningmoving@gmail.com
+- Email URL: mailto:peasefulcleaningmoving@gmail.com
 - Website: https://peasefulcleaningmoving.com/
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLSd6QsJS59XAuS-vF_X2EAfSVpB3HetuZB6QCgkYr1fngPyiOQ/viewform
 
@@ -107,9 +107,9 @@ If the Google Form changes, update every visible button/link and assets/js/site-
 
 Current live assets:
 
-- assets/images/peasefull-logo-primary.png
-- assets/images/peasefull-logo-header.png
-- assets/images/peasefull-icon.png
+- assets/images/peaseful-logo-primary.png
+- assets/images/peaseful-logo-header.png
+- assets/images/peaseful-icon.png
 - assets/images/favicon.svg
 
 Use optimized image files, preserve the logo proportions, and update width/height attributes if replacement dimensions change.
@@ -123,7 +123,7 @@ Before launch, click:
 - Send an Email button
 - Website links
 
-Phone links should use tel:+14062588558. Email links should use mailto:peasefullcleaningmoving@gmail.com.
+Phone links should use tel:+14062588558. Email links should use mailto:peasefulcleaningmoving@gmail.com.
 
 ## Test Mobile Layouts
 
