@@ -1,6 +1,6 @@
 # Peaseful Cleaning N Moving Website
 
-Static production website for Peaseful Cleaning N Moving, operated by PeaseFull Cleaning LLC.
+Static production website for Peaseful Cleaning N Moving.
 
 ## Project Overview
 
@@ -9,12 +9,11 @@ The site is a lightweight static build for cleaning, moving, packing, loading, h
 Confirmed public details:
 
 - Public brand: Peaseful Cleaning N Moving
-- Legal business name: PeaseFull Cleaning LLC
 - Phone: (406) 258-8558
 - Phone URL: tel:+14062588558
-- Email: connect@peacefulcleaningmoving.com
-- Email URL: mailto:connect@peacefulcleaningmoving.com
-- Website: https://peacefulcleaningmoving.com/
+- Email: peasefullcleaningmoving@gmail.com
+- Email URL: mailto:peasefullcleaningmoving@gmail.com
+- Website: https://peasefulcleaningmoving.com/
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLSd6QsJS59XAuS-vF_X2EAfSVpB3HetuZB6QCgkYr1fngPyiOQ/viewform
 
 ## Preview Locally
@@ -51,7 +50,7 @@ This project is suitable for GitHub Pages or another static host. Upload the pro
 2. Upload the project files to the publishing branch.
 3. Go to Settings > Pages.
 4. Choose the publishing branch and root folder.
-5. Confirm the custom domain is set to peacefulcleaningmoving.com.
+5. Confirm the custom domain is set to peasefulcleaningmoving.com.
 6. Keep Enforce HTTPS enabled when GitHub allows it.
 
 ## CNAME
@@ -59,7 +58,7 @@ This project is suitable for GitHub Pages or another static host. Upload the pro
 The CNAME file must contain only:
 
 ```text
-peacefulcleaningmoving.com
+peasefulcleaningmoving.com
 ```
 
 GitHub Pages uses this file to associate the site with the custom domain.
@@ -68,17 +67,17 @@ GitHub Pages uses this file to associate the site with the custom domain.
 
 Confirm DNS records with the domain provider and GitHub Pages documentation. After DNS changes, allow time for propagation, then check:
 
-- https://peacefulcleaningmoving.com/
-- https://peacefulcleaningmoving.com/privacy.html
-- https://peacefulcleaningmoving.com/accessibility.html
+- https://peasefulcleaningmoving.com/
+- https://peasefulcleaningmoving.com/privacy.html
+- https://peasefulcleaningmoving.com/accessibility.html
 
 ## Google Search Console
 
 After the live domain works:
 
-1. Add the property for https://peacefulcleaningmoving.com/.
+1. Add the property for https://peasefulcleaningmoving.com/.
 2. Verify ownership using the method selected in Search Console.
-3. Submit https://peacefulcleaningmoving.com/sitemap.xml.
+3. Submit https://peasefulcleaningmoving.com/sitemap.xml.
 4. Recheck indexing after Google processes the sitemap.
 
 ## Update Contact Information
@@ -124,7 +123,7 @@ Before launch, click:
 - Send an Email button
 - Website links
 
-Phone links should use tel:+14062588558. Email links should use mailto:connect@peacefulcleaningmoving.com.
+Phone links should use tel:+14062588558. Email links should use mailto:peasefullcleaningmoving@gmail.com.
 
 ## Test Mobile Layouts
 
@@ -154,6 +153,6 @@ Update accessibility.html when contact methods or accessibility-planning languag
 ## Maintenance Notes
 
 - Keep the site static and lightweight.
-- Avoid fake reviews, ratings, awards, locations, street addresses, and unconfirmed hours.
+- Avoid fake reviews, ratings, awards, locations, street addresses, legal names, and unconfirmed hours.
 - Do not add a custom form unless it has a real backend and cannot show false success messages.
 - Keep reduced-cost service language cautious and clear.
