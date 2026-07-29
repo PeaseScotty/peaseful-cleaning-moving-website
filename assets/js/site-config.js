@@ -1,11 +1,13 @@
-window.SITE_CONFIG = {
-  publicBusinessName: 'Peaseful Cleaning & Moving',
-  legalBusinessName: '',
+window.SITE_CONFIG = Object.freeze({
+  publicBusinessName: 'Peaseful Cleaning N Moving',
+  legalBusinessName: 'Peaseful Cleaning LLC',
   phoneDisplay: '(406) 258-8558',
   phoneLink: 'tel:+14062588558',
-  currentPublicEmail: 'connect@peasefulcleaningmoving.com',
+  publicEmail: 'connect@peacefulcleaningmoving.com',
+  emailLink: 'mailto:connect@peacefulcleaningmoving.com',
   primaryDomain: 'https://peasefulcleaningmoving.com/',
-  serviceArea: 'Missoula, Montana and surrounding communities. Call or text to confirm availability for your location.',
-  businessHours: 'Call or text to discuss current availability.',
-  googleFormConfigured: false
-};
+  logoPath: 'assets/images/Scottyupdatedlogo.png?v=20260728-2',
+  googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSd6QsJS59XAuS-vF_X2EAfSVpB3HetuZB6QCgkYr1fngPyiOQ/viewform',
+  serviceArea: 'Call or text to ask whether service is available for your city or general area.',
+  businessHours: 'Call or text to discuss current availability.'
+});
