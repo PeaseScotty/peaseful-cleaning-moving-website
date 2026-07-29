@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peasefulcleaningmoving.com/sitemap.xml
+Sitemap: https://peacefulcleaningmoving.com/sitemap.xml
