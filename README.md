@@ -1,6 +1,6 @@
-# Peaseful Cleaning N Moving Website
+# Peaseful Cleaning & Moving Website
 
-Static production website for Peaseful Cleaning N Moving.
+Static production website for Peaseful Cleaning & Moving.
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This is a lightweight static website for cleaning, moving, packing, loading, hau
 
 Confirmed public details:
 
-- Public brand: Peaseful Cleaning N Moving
+- Public brand: Peaseful Cleaning & Moving
 - Legal business name: Peaseful Cleaning LLC
 - Phone: (406) 258-8558
 - Phone URL: tel:+14062588558
