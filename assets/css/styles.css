@@ -748,8 +748,12 @@ p {
 
 .faq-list p a,
 .legal-card p a {
-  display: inline;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
   max-width: 100%;
+  padding: 0.25rem 0;
+  vertical-align: middle;
   white-space: normal;
 }
 
